@@ -1,0 +1,14 @@
+{
+  "name": "sample-js-proto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "FUJII Yoshitaka",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "google-protobuf": "^3.21.2"
+  }
+}
